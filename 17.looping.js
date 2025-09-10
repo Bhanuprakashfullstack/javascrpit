@@ -116,3 +116,21 @@ do {
     for (let color of colors) {
         console.log(color.toUpperCase());
     }   
+
+
+    let employees=["bhanu","kala","prakash","raju"];
+    for(let emp of employees){
+        console.log(emp);
+    }
+
+
+    //for loop
+    //syntax
+    // for(initialization;condition;increment/decrement){
+
+    for(let i=0;i<5;i++){
+        console.log("bhanu",i);
+    }
+
+
+    

@@ -81,3 +81,18 @@ switch (day) {
 
 
 }
+
+
+let color = "red";
+
+if(color==="bule"){
+    console.log("color is blue");
+}
+else if(color==="green"){
+    console.log("color is green");
+}
+else if(color==="red"){
+    console.log("color is red");
+}else{
+    console.log("color is not matching");
+}
